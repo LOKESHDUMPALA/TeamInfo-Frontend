@@ -40,7 +40,8 @@ To get started with the frontend development, follow these steps:
      cd frontend;
      
 4. Install dependencies:
-      npm install @fortawesome/fontawesome-free@^6.5.1 @fullcalendar/daygrid@^6.1.10 @fullcalendar/react@^6.1.10 @testing-library/jest-dom@^5.17.0 @testing-library/react@^13.4.0 @testing-library/user-event@^13.5.0 axios@^1.6.2 bootstrap@^5.3.2 react@^18.2.0 react-bootstrap@^2.9.1 react-dom@^18.2.0 react-router-dom@^6.21.1 react-scripts@5.0.1 recharts@^2.10.3 styled-components@^6.1.1 web-vitals@^2.1.4;
+      npm install @fortawesome/fontawesome-free @fullcalendar/daygrid @fullcalendar/react @testing-library/jest-dom @testing-library/react @testing-library/user-event axios bootstrap react react-bootstrap react-dom react-router-dom react-scripts recharts styled-components web-vitals
+
 
 5. Start the development server:
     npm start
